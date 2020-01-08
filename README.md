@@ -1,6 +1,6 @@
 # Colletta project - OttoBit team
 
-Components:
+Team members:
 * Bergo Giovanni
 * Bortone Michele
 * Cosentino Benedetto
