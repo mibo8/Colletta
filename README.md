@@ -10,4 +10,4 @@ Team members:
 * Pettenuzzo Gianmarco
 
 
-Colletta is a web platform for resolution of grammar analysis exercises. It includes an automatic solver, implemented with Hunpos, an open source part-of-speech tagger, trained for detecting italian language.
+Colletta is a web platform for resolution of grammar analysis exercises. It includes an automatic solver, implemented with Hunpos, an open source part-of-speech tagger, trained for detecting and tagging italian language.
